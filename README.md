@@ -26,7 +26,7 @@ Most of the work was done by the team in charge of the CPU integration in LiteX.
 Clone the project into your LiteX installation's root folder.
 
 ```console
-git clone https://github.com/adamhlt/LiteX-CVA6.git pythondata-cpu-cva6
+git clone https://github.com/KevinQhv/LiteX-CVA6.git
 python3 -m pip install --editable pythondata-cpu-cva6
 ```
 
