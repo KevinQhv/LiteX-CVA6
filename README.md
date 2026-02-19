@@ -8,6 +8,7 @@
                                                                         
                                             LiteX CVA6 
                        Fixed integration of the CPU into LiteX SoC generator
+                               Compatible with LiteX version 2022.08
 ```
 <p align="center">
     <img src="https://img.shields.io/badge/Library-LiteX-red.svg?style=for-the-badge&logo=appveyor" alt="LiteX">
@@ -26,7 +27,7 @@ Most of the work was done by the team in charge of the CPU integration in LiteX.
 Clone the project into your LiteX installation's root folder.
 
 ```console
-git clone https://github.com/KevinQhv/LiteX-CVA6.git
+git clone https://github.com/KevinQhv/LiteX-CVA6.git pythondata-cpu-cva6
 python3 -m pip install --editable pythondata-cpu-cva6
 ```
 
